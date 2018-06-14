@@ -13,5 +13,5 @@ set /A Times=!Times! + 1
 )
 
 echo Percentage = %Cpusage0%
-if %Cpusage0% gtr 5 send.exe h
+if %Cpusage0% gtr 90 send.exe h
 goto loop
