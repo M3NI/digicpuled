@@ -20,7 +20,3 @@ First of all You will need the DigiUSB package from digistump repo
 3- Plug in your Digispark
 
 4- Run the batch file
-
-
-
-Only forking from this repo is allowed 
